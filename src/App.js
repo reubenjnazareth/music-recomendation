@@ -54,10 +54,10 @@ export default function App() {
             onClick={() => genreClickHandler(genre)}
             style={{
               borderRadius: "0.6rem",
-              background: "#6EFFB5",
+              margin: "1rem",
+              background: "#1DB954",
               cursor: "pointer",
-              padding: "1.1rem",
-              margin: "1rem"
+              padding: "1.1rem"
             }}
           >
             {genre}

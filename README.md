@@ -1,2 +1,2 @@
-# music-recomendation
+# music-recommendation
 Created with CodeSandbox

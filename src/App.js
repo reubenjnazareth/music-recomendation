@@ -23,6 +23,13 @@ var songs = {
     { name: "Lover", artist: "Diljit Dosanjh" },
     { name: "Champagne", artist: "Diljit Dosanjh" },
     { name: "Into You", artist: "Tegi Pannu" }
+  ],
+  Rock: [
+    { name: "Stairway to Heaven", artist: "Led Zepplin" },
+    { name: "Bohemian Raphsody", artist: "Queen" },
+    { name: "Smoke on the Water", artist: "Deep Purple" },
+    { name: "Comfortably Numb", artist: "Pink Floyd" },
+    { name: "Kashmir", artist: "Led Zepplin" }
   ]
 };
 
